@@ -5,7 +5,7 @@ import { A } from 'solid-start';
 export default function Home() {
   return (
     <main>
-      <h1>Hello world!</h1>
+      <h1 class="text-2xl font-bold underline">Hello world!</h1>
       <Counter />
       <p>
         Visit{' '}

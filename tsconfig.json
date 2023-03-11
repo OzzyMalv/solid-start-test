@@ -5,9 +5,11 @@
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "node",
-    "jsxImportSource": "solid-js",
     "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "noEmit": true,
     "strict": true,
+    "isolatedModules": true,
     "types": ["solid-start/env", "@testing-library/jest-dom", "vitest/globals"],
     "baseUrl": "./",
     "paths": {
