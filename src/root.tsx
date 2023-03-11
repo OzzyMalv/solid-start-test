@@ -13,6 +13,7 @@ import {
 import { ErrorBoundary } from "solid-start/error-boundary";
 
 export default function Root() {
+  console.log(123);
   return (
     <Html lang="en">
       <Head>

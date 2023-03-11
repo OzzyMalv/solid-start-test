@@ -1,6 +1,8 @@
 
 
 export default function MissingPage() {
+
+
   return (
     <div>
       <h2>Oops...</h2>
