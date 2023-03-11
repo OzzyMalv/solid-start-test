@@ -1,5 +1,3 @@
-import { type JSX } from 'solid-js'
-
-export default function Contacts(): JSX.Element {
-  return <h1>Contacts</h1>
+export default function Contacts() {
+  return <h1>Contacts</h1>;
 }
